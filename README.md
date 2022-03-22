@@ -1,4 +1,4 @@
-# Hi there, I'm Moez 👋 
+# Hi there, I'm Moez Tnani 👋 
 
 
 - 👋 Hi, I’m Moez Tnani @MTnani
