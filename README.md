@@ -15,6 +15,10 @@
 
 ### Connect with me:
 
+![image](https://user-images.githubusercontent.com/101215239/159520878-4e7a699c-a56b-44f0-ae95-0dbc3b18362d.png)
+![image](https://user-images.githubusercontent.com/101215239/159521072-18db24f2-5d12-4c80-a0dd-76535e6e9ff2.png)
+![image](https://user-images.githubusercontent.com/101215239/159521151-5a406b77-93e3-4952-83ab-ee6aac56b5ac.png)
+![image](https://user-images.githubusercontent.com/101215239/159521234-e3c11dcc-1151-468a-bc49-53272dcae408.png)
 
 
 ### Languages and Tools:
