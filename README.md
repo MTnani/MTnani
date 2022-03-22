@@ -1,9 +1,16 @@
+# Hi there, I'm Moez 👋 
+
+
 - 👋 Hi, I’m Moez Tnani @MTnani
+- 
 - 👀 I’m interested in Software Testing
 
 - 🌱 "Pretty good testing is easy to do (that’s partly why some people like to say ‘testing is dead’– they think testing isn’t needed as a special focus because they note that anyone can find at least some bugs some of the time). Excellent testing is quite hard to do.” — James Bach
 
-- 💞️ I’m looking to collaborate on ...
+- 🥅 I’m currently learning everything
+
+- 💞️ I’m looking to collaborate on with other content creators
+
 - 📫 How to reach me ...
 
 <!---
