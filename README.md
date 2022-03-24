@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in Software Testing
 
-- 🌱 "Pretty good testing is easy to do (that’s partly why some people like to say ‘testing is dead’– they think testing isn’t needed as a special focus because they note that anyone can find at least some bugs some of the time). Excellent testing is quite hard to do.” — James Bach
+- 🌱 "Pretty good testing is easy to do (that’s partly why some people like to say ‘testing is dead’– they think testing isn’t needed as a special focus because they note that anyone can find at least some bugs some of the time). Excellent testing is quite hard to do.”
 
 - 🥅 I’m currently learning everything
 
