@@ -11,7 +11,7 @@
 
 - 💞️ I’m looking to collaborate on with other content creators
 
-- 📫 How to reach me ...
+- 📫 How to reach me: tnanimoez@gmail.com
 
 ### Connect with me:
 
