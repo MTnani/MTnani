@@ -1,6 +1,6 @@
 # Hi there, I'm Moez Tnani
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 - 👋 Hi, I’m Moez Tnani @MTnani
 
 - 👀 I’m interested in Software Testing
