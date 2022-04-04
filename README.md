@@ -1,6 +1,6 @@
 # Hi there, I'm Moez Tnani
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=tnanimoez@gmail.com;Quality+assurance+engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Quality+assurance+engineer)](https://git.io/typing-svg)
 - 👋 Hi, I’m Moez Tnani @MTnani
 
 - 👀 I’m interested in Software Testing
@@ -12,9 +12,8 @@
 - 💞️ I’m looking to collaborate on with other content creators
 
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=How%20to%20reach%20me;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=How%20to%20reach%20me;tnanimoez@gmail.com;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 <!-- Social icons section -->
 <p align="center">
