@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in Web & App Testing
 
-- 🌱 "Excellent testing is quite hard to do.”
+- 🌱 "Excellent day”
 
 - 🥅 I’m currently learning everything
 
