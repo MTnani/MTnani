@@ -3,12 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Quality+assurance+engineer)](https://git.io/typing-svg)
 - 👋 Hi, I’m Moez Tnani @MTnani
 
-- 👀 I’m interested in Web & App Testing
-
 - 🌱 About,
 Moez Tnani is a computer engineer (Eng.) who also holds M.S. degree in Artificial Intelligence from the University of Sherbrooke (Canada)
 
 - 🥅 I’m currently learning everything
+
+- 👀 I’m interested in Web & App Testing
 
 - 💞️ I’m looking to collaborate on with other content creators
 
