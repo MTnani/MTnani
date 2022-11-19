@@ -6,11 +6,10 @@
 - 🌱 About,
 Moez Tnani is a computer engineer (Eng.) who also holds M.S. degree in Artificial Intelligence from the University of Sherbrooke (Canada)
 
-- 🤖 U Sherbrooke,
-M.Sc.Computer Science <br>
+- 🤖 M.Sc.Computer Science <br>
+University of Sherbrooke<br>
 1999 - 2001 <br>
-Master Research: Adaptation d'algorithmes de synthèse de contrôleurs<br>
-(Applied Sciences)
+Master Research: Adaptation d'algorithmes de synthèse de contrôleurs (Applied Sciences)
 
 - 🥅 I’m currently learning everything
 
