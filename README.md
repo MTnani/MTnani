@@ -5,7 +5,8 @@
 
 - 👀 I’m interested in Web & App Testing
 
-- 🌱 "Excellent day”
+- 🌱 About,
+Moez Tnani is a computer engineer (Eng.) who also holds M.S. degree in Artificial Intelligence from the University of Sherbrooke (Canada)
 
 - 🥅 I’m currently learning everything
 
